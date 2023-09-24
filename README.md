@@ -2,7 +2,7 @@
 
  Change Tempareture From Celcius to Fahrenheit
 
-.  Accenpts a number from user ( tempareture in Celcius)
+.  Accepts a number from user ( tempareture in Celcius)
 
  
 . Convert it to fahrenheit 
